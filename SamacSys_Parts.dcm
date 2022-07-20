@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP LT1507CS8-3.3#PBF
+D LT1507CS8-3.3#PBF, Switching Regulator, Buck Controller, 1.5A, 3.3 V, 570 kHz, 8-Pin, SOIC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00092313.pdf
+$ENDCMP
+#
+$CMP NCP1117ST33T3G
+D ON SEMICONDUCTOR - NCP1117ST33T3G - IC, LINEAR VOLTAGE REGULATOR
+K
+F http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP NX3225SA-12MHZ-STD-CSR-6
+D NDK 12MHz Crystal Unit +/-15ppm SMD 4-Pin 3.2 x 2.5 x 0.55mm
+K
+F http://www.ndk.com/images/products/catalog/c_NX3225SA_e.pdf
+$ENDCMP
+#
+$CMP PTS526_SM08_SMTR2_LFS
+D Tactile Switches 50mA 12VDC, 5.2x5.2mm, 0.8mm H, 160gf, G leads, No ground pin, no actuator
+K
+F https://www.arrow.com/en/products/pts526-sm08-smtr2-lfs/ck
+$ENDCMP
+#
+$CMP ABM8-16.000MHZ-B2-T
+D ABRACON - ABM8-16.000MHZ-B2-T - CRYSTAL, 16MHZ, 18PF CL, 3.2X2.5MM, SMT
+K
+F http://www.abracon.com/Resonators/abm8.pdf
+$ENDCMP
+#
+$CMP SSSS213202
+D Slide Switches 1-pole 2-positions Surface Mount Slide Switch SPDT Maintained 0.3 A Slide
+K
+F http://www.alps.com/prod/info/E/HTML/Switch/Slide/SSSS2/SSSS213202.html#Land Dimensions
+$ENDCMP
+#
+$CMP PTS645SM43SMTR92LFS
+D C & K COMPONENTS - PTS645SM43SMTR92LFS - SWITCH, SPST, 0.05A, 12VDC, SMD, 4.3MM
+K
+F 
+$ENDCMP
+#
+#End Doc Library
