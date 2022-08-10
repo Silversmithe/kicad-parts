@@ -48,4 +48,10 @@ K
 F 
 $ENDCMP
 #
+$CMP MAX98357AETE+T
+D Audio Amplifiers Digital Input Class D Amplifier
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX98357A-MAX98357B.pdf
+$ENDCMP
+#
 #End Doc Library
