@@ -54,4 +54,10 @@ K
 F https://datasheets.maximintegrated.com/en/ds/MAX98357A-MAX98357B.pdf
 $ENDCMP
 #
+$CMP LM4861MX_NOPB
+D TEXAS INSTRUMENTS - LM4861MX/NOPB - Audio Power Amplifier, 1.1 W, AB, 1 Channel, 2V to 5.5V, SOIC, 8 Pins
+K
+F https://www.ti.com/lit/gpn/LM4861
+$ENDCMP
+#
 #End Doc Library
