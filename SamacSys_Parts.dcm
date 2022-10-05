@@ -60,4 +60,10 @@ K
 F https://www.ti.com/lit/gpn/LM4861
 $ENDCMP
 #
+$CMP N25S830HAT22I
+D 
+K
+F https://componentsearchengine.com/Datasheets/1/N25S830HAT22I.pdf
+$ENDCMP
+#
 #End Doc Library
